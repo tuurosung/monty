@@ -1,6 +1,12 @@
 #include "monty.h"
 
-
+/**
+ * mnty_mul - multiplies the second top element
+ * of the stack with the top element of the stack
+ * @stack_start: pointer to the top of the stack
+ * @ln_num: current line in input file;
+ * Return: returns nothing
+ */
 
 void mnty_mul(stack_t **stack_start, unsigned int ln_num)
 {

@@ -1,5 +1,11 @@
 #include "monty.h"
 
+/**
+ * swap - swaps the top 2 elements of stack_t stack
+ * @stack: pointer to the top of the stack
+ * @ln_number: current line in input file;
+ * Return: returns nothing
+*/
 
 void mnty_pchar(stack_t **stack_start, unsigned int ln_num)
 {

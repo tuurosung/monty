@@ -1,5 +1,13 @@
 #include "monty.h"
 
+/**
+ * mnty_sub - subtracts the top element of the stack from
+ * the second top element of the stack
+ * @stack_start: pointer to the top of the stack
+ * @ln_num: current line in input file;
+ * Return: returns nothing
+ */
+
 
 
 void mnty_sub(stack_t **stack_start, unsigned int ln_num)

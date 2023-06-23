@@ -1,5 +1,11 @@
 #include "monty.h"
 
+/**
+ * mnty_pop - removes the top element of the stack_t stack
+ * @stack_start: pointer to the top of the stack
+ * @ln_num: current line in input file;
+ * Return: returns nothing
+ */
 
 void mnty_pop(stack_t **stack_start, unsigned int ln_num)
 {

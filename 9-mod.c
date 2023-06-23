@@ -1,6 +1,12 @@
 #include "monty.h"
 
-
+/**
+ * mnty_mod - computes the rest of the division of the second
+ * top element of the stack by the top element of the stack.
+ * @stack_start: pointer to the top of the stack
+ * @ln_numb: current line in input file;
+ * Return: returns nothing
+ */
 void mnty_mod(stack_t **stack_start, unsigned int ln_num)
 {
 	stack_t *h;
