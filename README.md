@@ -1,3 +1,4 @@
-#Monty Project
-Authors: Khaira Adam & Shahabdeen Abdul-Moomin
-ALX : 0x19 C Stacks LIFO FIFO Partner Project
+#0x19 C Stacks LILO FIFO
+
+Project by Haira Adam and Shahabdeen Abdul-Moomin
+ALX Partner Project
